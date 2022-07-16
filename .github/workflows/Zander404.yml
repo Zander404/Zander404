@@ -17,10 +17,11 @@ Henrique Lopes
 Posted on 4 de jan.
 
 Como adicionar o Snake Game (jogo da cobrinha) no seu perfil do Github 🐍
-#github
+#
+github
 Primeiramente devo deixar claro que esse artigo foi desenvolvido com base em vários outros artigos e reconstruído para deixar o mais claro possível a forma para inserir o Snake Game em seu perfil.
 
-#Funcionamento. "Contributions in the last year":
+Funcionamento. "Contributions in the last year":
 Basicamente o Snake game funciona realizando uma coleta da sua tabela de contribuições no Github. ele faz a renderização dessas informações e gera dois arquivos, um em formato gif e outro em svg. São esses arquivos que iremos utilizar para inserir a animação no perfil do Github.
 
 Repositorio do projeto a ser utilizado: Platane/snk
@@ -78,7 +79,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: nomeUsuario #Seu usuario
+          github_user_name: Zander404 #Seu usuario
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
@@ -113,7 +114,7 @@ Arquivos
 
 Codigo Github para utilização:
 
-![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Zander404/Zander404/blob/output/github-contribution-grid-snake.svg)
 
 Discussion (0)
 Subscribe
@@ -178,7 +179,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: Zander404 #Seu usuario
+          github_user_name: nomeUsuario #Seu usuario
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
