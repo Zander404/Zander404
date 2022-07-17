@@ -9,5 +9,4 @@
     <img width="295rem" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zander404&layout=compact&langs_count=6&theme=monokai&hide_border=true"/>
   </div>
 
-
-
+<p align="center"> <a href="https://www.github.com/Zander404" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/xandy_tradicional" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/alexandre-arthur-30" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
