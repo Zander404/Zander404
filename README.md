@@ -8,7 +8,7 @@
     <a href="https://github.com/Zander404">
     <img height="155rem" src="https://github-readme-stats.vercel.app/api?username=Zander404&hide=contribs,prs&show_icons=true&layout=compact&theme=monokai&hide_border=true&count_private=true&include_all_commits=true"/>
     <img height="155rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zander404&layout=compact&langs_count=10&theme=monokai&hide_border=true"/>
-    <img width=800  src=https://github.com/Zander404/Zander404/blob/output/github-contribution-grid-snake.svg/>
+<!--     <img width=800  src=https://github.com/Zander404/Zander404/blob/output/github-contribution-grid-snake.svg/> -->
   </div>
 
 
