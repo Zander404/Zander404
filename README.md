@@ -1,6 +1,23 @@
 <p align="left">- 👋 Hi, I'm Alexandre<br>- 👀 I'm interested in Python, JavaScript and Next.js<br>- 🌱 I’m currently learning Django and a little bit about cybersecurity</p>
 
 
+
+
+<br clear="both">
+
+<div align="center">
+  
+![Status](./profile-3d-contrib/profile-night-green.svg)
+
+  
+</div>
+
+
+
+
+
+###
+
 ###
 
 <br clear="both">
@@ -27,14 +44,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zander404&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zander404&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-    ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
-  
-</div>
 
 ###
 
